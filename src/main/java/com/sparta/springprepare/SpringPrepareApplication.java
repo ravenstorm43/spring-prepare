@@ -1,4 +1,4 @@
-package com.example.springprepare;
+package com.sparta.springprepare;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
